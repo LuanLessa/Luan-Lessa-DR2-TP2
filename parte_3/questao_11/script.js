@@ -15,11 +15,10 @@ b = undefined;
 //b = 1;
 //b = 'null';
 
-// Não há resposta correta dada as restrições de apenas comentar ou descomentar o arquivo pois:
-//c = '2000' + '20'; // "200020"
-//c = '20' + 20; // "2020" 
-//c = null; // object
-//c = undefined; // undefined
+c = /*'2000' + '20';
+c = '20' +*/ 20;
+//c = null;
+//c = undefined;
 
 //d = null;
 d = undefined;
